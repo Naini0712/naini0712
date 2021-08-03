@@ -28,7 +28,6 @@
 -XX:+UseFastAccessorMethods
 -XX:+CMSScavengeBeforeRemark
 -XX:+CMSClassUnloadingEnabled
--XX:+DisableExplicitGC
 -XX:-UseGCOverheadLimit
 -XX:+UseCompressedOops
 -XX:+UseCodeCacheFlushing
